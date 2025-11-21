@@ -1,1 +1,38 @@
-"# AERO-SENTINEL" 
+Wing: Chief Factors Affecting Airplane Lift and Drag
+
+Top View
+Glavni Pojmovi (Main Concepts)
+![geom-1-600x382](https://github.com/user-attachments/assets/166096a4-ea6b-4c1f-b791-21f9fcc10796)
+
+Leading Edge: Front of the wing.
+Trailing Edge: Back of the wing.
+Chord: Distance from the leading to trailing edges.
+Wing Tips: Ends of wings.
+Span: Distance from one wing tip to the other (obadva krila zajedno – both wings together).
+Planform: Shape of the wing when viewed from above, looking down onto the wing.
+Total Surface Area: Includes both upper and lower surfaces.
+
+Aspect Ratio (AR)
+AR = (s²) / A = (s²) / (s * c) = s / c
+
+s: Span.
+c: Chord length.
+A: Wing area.
+High Aspect Ratio: Long spans (like high-performance gliders) → Lower drag, higher lift-to-drag ratio (L/D), and better glide angle.
+Low Aspect Ratio: Short spans (like space shuttle).
+
+Front View
+
+Dihedral Angle: Tips higher than the root. Added to the wings for roll stability.
+Anhedral Angle: Tips lower than the root. Added to the wings for a high roll rate.
+
+Airfoil Geometry
+![wing](https://github.com/user-attachments/assets/9494f496-89e6-45e8-ba12-6e0260567c91)
+
+Camber: The maximum distance between the two lines (curvature of airfoil; high camber means high curvature).
+Thickness: Maximum distance between the upper and lower surfaces.
+Spars: Long, heavy pieces that run from wing tip to wing tip along the leading edge and near the middle of the wing.
+Ribs: Attached to the spars; the ribs produce the airfoil shape.
+
+Notice
+This is a perfect example which shows that the popular theory of lift generation found in many textbooks is completely wrong! The upper surface doesn’t have to be longer than the lower surface to generate lift. The lift occurs because the airfoil turns the flow of air and both the lower and upper surface contribute to the turning.
