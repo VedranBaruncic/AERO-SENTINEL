@@ -1,1 +1,9 @@
+ZAKLJUČCI 
+
+-srednje/visok AR
+ aspect ratio mora biti srednje do visok zato što veći aspect ratio znači više lifta, manji drag te glide
+-trajanje leta min 3 h
+ potreban dobar glide jer većinu vremena avion glajda ( otp. motor max 15% snage)
+-otpornost na vijetar
+ dobivamo npr. micanjem rudera
 
