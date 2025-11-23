@@ -7,3 +7,23 @@ ZAKLJUČCI
 -otpornost na vijetar
  dobivamo npr. micanjem rudera
 
+?
+## HIGH WING ##
+- vrlo stabilan, lakše polijeta i slijeće, bolji pri malim brzinama, bolja otpornost na vjetar
+- malo kompliciraniji landing gear, drag veći, heavy roof structure
+
+MID WING
+- balanced overral
+
+LOW WING
+- velike brzine, simple loading gear, less stable
+- simple landing gear
+
+
+## SWEEP ANGLE  == MILD 
+- none to low
+- sweep angle is used to reduce drag for higher speed jets
+- for endurance and gliding (cruising) better lower angles
+
+##TAIL  == in progress
+T tail ???
