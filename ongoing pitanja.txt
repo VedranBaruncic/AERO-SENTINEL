@@ -21,3 +21,12 @@ LOW WING
 T tail ???
 ## VERTICAL POSITIONG  == in progress
 - middle ??
+
+Kako iskorisititi BWB (blenden wing body) na našem projektu?
+BWB-koristan zbog: -high AR (omogućava veći glid angle, better lift to drag ratio, bolja stabilnost)
+                   -lift to drag ratio (bitan za let s manje thrusta???)
+                   -moguća veća strukturalna snaga ( zato jer je krilo spojeno s tijelom???)
+                   -veći surface ( moguće da više glide zbog toga???)
+                   -sve skupa daje long endurance
+                   
+
