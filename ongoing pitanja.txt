@@ -10,6 +10,8 @@ LOW WING
 - simple landing gear
 
 
+
+
 ## SWEEP ANGLE  == MILD 
 - none to low
 - sweep angle is used to reduce drag for higher speed jets
@@ -17,3 +19,5 @@ LOW WING
 
 ##TAIL  == in progress
 T tail ???
+## VERTICAL POSITIONG  == in progress
+- middle ??
