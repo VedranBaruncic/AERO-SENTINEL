@@ -7,3 +7,39 @@ ZAKLJUČCI
 -otpornost na vijetar
  dobivamo npr. micanjem rudera
 
+1. Volume and Thickness Requirements
+
+Although a small UAV does not need to carry passengers, the BWB configuration still forces most of the electronics, battery, and structure into the centerbody. This often results in an airfoil that is thicker than ideal, which increases drag and complicates aerodynamic behavior. Battery placement inside a thick center section can also make it difficult to achieve the correct center of gravity. Small BWBs have extremely tight CG tolerances, and even a few millimeters of error can make the aircraft unstable or prone to deep stall.
+
+2. Clean Wing Trim and Pitching Moments
+
+A BWB tends to generate a significant nose-down pitching moment, especially if the airfoil includes aft camber for lift. For small UAVs, this can lead to challenges trimming the aircraft for level flight and can require large elevator or elevon deflections. At small scales, cambered airfoils behave differently due to low Reynolds numbers, which makes these pitching-moment issues more noticeable.
+
+3. Control Surface Loads
+
+While full-scale aircraft worry about hydraulic power, the equivalent concern at RC scale is servo load. In a small BWB, the elevons are typically large relative to the aircraft and must counter strong aerodynamic pitching moments. This can cause servos to work near their limits, resulting in buzzing, poor control response, flutter, or electrical overload of the BEC. Control linkages must be stiff and servos must be appropriately sized.
+
+4. Landing Approach Characteristics
+
+Because a BWB lacks conventional flaps and relies on the entire lifting body, it typically requires a high angle of attack during landing. At RC scale, low Reynolds numbers worsen this behavior, leading to higher landing speeds and a pronounced nose-up attitude. Small BWBs tend to stall abruptly, so the landing phase can be unforgiving without careful aerodynamic design.
+
+5. Buffet and Stall Behavior
+
+Small BWBs are especially susceptible to tip-first stall due to short outboard chords and low Reynolds numbers. Flow separation typically begins at the tips, causing sudden loss of lift and potentially an immediate wing drop. This behavior is hazardous for small UAVs, as recovery margins are minimal. Washout or modified outboard geometry is usually required to improve stall progression.
+
+6. Propulsion and Pitch Coupling
+
+Placing the motor above or below the center of gravity affects pitch when throttle is applied. Many BWB layouts place propulsion above the wing, which can introduce a nose-down pitching moment under power. At small scales, this coupling is very noticeable and requires careful thrust-line alignment to avoid undesirable pitch changes with throttle.
+
+7. Manufacturing Accuracy
+
+The BWB configuration relies on smooth, blended, and symmetrical surfaces. Small deviations during construction can significantly alter aerodynamic performance. Wing twist, surface waviness, or asymmetries often lead to trim issues or unpredictable stall behavior. Scratch-built BWBs require a high degree of precision to fly reliably at small sizes.
+
+8. Short-Coupled Pitch Controls
+
+BWBs have limited pitch authority because the control surfaces are close to the aircraft’s center of gravity. This short moment arm leads to sluggish pitch response during rotation and landing flare. Small UAVs are especially affected because the low mass and small dimensions amplify “sagging” or delayed pitch reactions. A longer tail moment arm or a conventional tailplane significantly improves pitch behavior.
+Increase tail moment arm as much as possible
+
+Use a proper horizontal stabilizer, not tiny fins
+
+Strong elevator surface
