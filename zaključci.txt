@@ -7,6 +7,12 @@ ZAKLJUČCI
 -otpornost na vijetar
  dobivamo npr. micanjem rudera
 
+ZAKLJUČCI KRILA:- varijabilne dijelove krila optimizirali smo prema kutu na kojem ćemo se najviše voziti (angle degree), taj kut je 2 stupnja, što je idealno za dug glide koji je nama potreban
+                -camber 4
+                -chord ticknes 9.9
+                -Aspect ratio 25
+                -...(slijedi nadopuna ovog dijela)
+
 1. Volume and Thickness Requirements
 
 Although a small UAV does not need to carry passengers, the BWB configuration still forces most of the electronics, battery, and structure into the centerbody. This often results in an airfoil that is thicker than ideal, which increases drag and complicates aerodynamic behavior. Battery placement inside a thick center section can also make it difficult to achieve the correct center of gravity. Small BWBs have extremely tight CG tolerances, and even a few millimeters of error can make the aircraft unstable or prone to deep stall.
