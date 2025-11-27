@@ -29,6 +29,11 @@ BWB-koristan zbog: -high AR (omogućava veći glid angle, better lift to drag ra
                    -veći surface ( moguće da više glide zbog toga???)
                    -sve skupa daje long endurance
 
+Nakon odabira ispravnih krila (vidi u zaključci) preko simulacija trebamo odrediti:- kut između winga i fuselaga
+                                                                                   - debljina BWB winga kod fuselaga i koliko se smanjuje do kraja
+                                                                                   - oblik fusalaga i zadnjeg dijela aviona- to ćemo dobit prema dimenzijama krila
+                                                              
+
 
 Koje bi sve komponente mogli koristiti: 
 baterija
