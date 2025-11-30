@@ -16,7 +16,23 @@ pravila). Ovu misiju možemo ostvariti pomnim biranjem specifikacija krila i aer
 
 KRILA
 Odabrane specifikacije krila su slijedeće: span - 4m
-                                           chord - max 20, min 9, mijenja se kroz cijelo krilo 
+                                           chord - max 20cm, min 9cm, mijenja se kroz cijelo krilo 
                                            thickness - (10%)
-                                           camber (%)
-                                           aspect ratio
+                                           camber - 4%
+                                           aspect ratio - na kraju krila 44, na početku (kod fuselaga) 20
+
+Započeli smo dizajn winga s ciljem da dobijemo visok aspec ratio, optimalno 25. 
+
+Zašto visok AR?
+Potreban nam je visok AR zato jer ona avionu daje stabilnost pri niskim brzinama, dobar glide, višlji L/D ratio 
+(lift to drag ratio). Na početku smo ciljali na 25 aspect ratio jer je srednje do visok što je za nas optimalno. 
+
+Zašto je 25 bilo optimalno, a zašto smo završili na 44/20 AR? 
+Krenuli smo sa srednje do visokim zato jerr smo htijeli imat benefite visokog AR, ali zadržati jednostavnost i jačinu strukture srednjeg AR ( bojali smo se da će visoki AR puknuti).
+Završili smo na visokom AR jer smo shvatili da nam trebaju njegovi
+benefiti i jer ga možemo ojaćati karbonskim cijevima. Sve specifikacije krila smo ravnali tako da dobijemo visoki AR i optimalni L/D ratio za vrijeme spore vožnje. 
+
+Zašto nam treba optimalni L/D za vrijeme spore vožnje?
+Ova stavka nam je potrebna zato što ćemo se najviše vremena sporo voziti, a ako imamo optimalan L/D ratio nećemo morati koristiti 100% snage motora već možda petnaestak posto čime štedimo energiju važnu za endurance.
+
+FUSELAGE
