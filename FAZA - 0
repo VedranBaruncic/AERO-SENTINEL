@@ -14,8 +14,6 @@ zaklučivanje kakve specifikacije trebaju našoj misiji.
 -Misija naše bespilotne letjelice je izbacivati modula u šumska područja pri naletima vjetra od 10 m/s, mora imati visok loitering radi preciznog izbacivanja modula te visoki endurance od 3 sata leta (vidi podatci - 
 pravila). Ovu misiju možemo ostvariti pomnim biranjem specifikacija krila i aerodinamičnosti aviona. Započeti ćemo s krilima.
 
-CENTAR GRAVITACIJE
-Centar gravitacije smo dobili sa programom kojeg smo koristili: OpenVSP, gdje smo ubacili STL file naseg probnog 3D modela i dobili pocetni centar gravitacije(x - 890mm, y - 870mm, z - 132mm)
 
 KRILA
 Odabrane specifikacije krila su slijedeće: span - 4m
@@ -52,3 +50,5 @@ REP AVIONA
 ruddera i elevatora, stabilan je pri malim brzinama. Točne dimenzije repa možemo izračunati preko podataka o krilima i fuselage-u. (video koji objašnjava repove i njihove prednosti mane https://www.youtube.com/watch?v=cU1I7qbWosg)
 
 POZICIONIRANJE I CENTAR GRAVITACIJE
+-Centar gravitacije smo dobili sa programom kojeg smo koristili: OpenVSP, gdje smo ubacili STL file naseg probnog 3D modela i dobili pocetni centar gravitacije(x - 890mm, y - 870mm, z - 132mm)
+On je ključan za poziciju komponenti, pogledaj pozicije komponenti u "slike"
