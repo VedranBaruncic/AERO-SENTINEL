@@ -36,4 +36,5 @@ Spars: Long, heavy pieces that run from wing tip to wing tip along the leading e
 Ribs: Attached to the spars; the ribs produce the airfoil shape.
 
 Notice
-This is a perfect example which shows that the popular theory of lift generation found in many textbooks is completely wrong! The upper surface doesn’t have to be longer than the lower surface to generate lift. The lift occurs because the airfoil turns the flow of air and both the lower and upper surface contribute to the turning.
+This is a perfect example which shows that the popular theory of lift generation found in many textbooks is completely wrong! The upper surface doesn’t have 
+to be longer than the lower surface to generate lift. The lift occurs because the airfoil turns the flow of air and both the lower and upper surface contribute to the turning.
