@@ -1,0 +1,22 @@
+CILJ FAZE - 0
+ Ideja osmišljena i spremna za 3D uključuje apsolutno sve predviđeno, kuda idu sajle za
+kontrole, kako izgleda airframe unutra i vani, placement baterija, motora,materijali koji će se
+koristiti kako će se sve ojačavati, poljetanje/sletanje i sve ostalo potrebno kako bi se krenulo
+dizajnirati. 
+
+POSTUPCI I ZAKLJUČCI FAZE - 0
+POČETAK
+-Zbog važnosti krila odlučujemo krenuti ovaj projekt istraživanjem i dizajnom krila. Zašto su krila toliko važna? Krila odeđuju sve specifikacije aviona poput brzine, namjene, efikasnosti aviona, okretnosti aviona...
+Slijedilo je istraživanje dijelova krila i kako pojedine mjere utjeću na cijeli avion ( vidi podatke -  "krila"). Nakon provedenog istraživanja i shvaćanja kako koja mjera i specifikacija utjeće na avion slijedi 
+zaklučivanje kakve specifikacije trebaju našoj misiji.
+
+ŠTO NAŠ AVION TREBA - MISIJA AVIONA?
+-Misija naše bespilotne letjelice je izbacivati modula u šumska područja pri naletima vjetra od 10 m/s, mora imati visok loitering radi preciznog izbacivanja modula te visoki endurance od 3 sata leta (vidi podatci - 
+pravila). Ovu misiju možemo ostvariti pomnim biranjem specifikacija krila i aerodinamičnosti aviona. Započeti ćemo s krilima.
+
+KRILA
+Odabrane specifikacije krila su slijedeće: span - 4m
+                                           chord - max 20, min 9, mijenja se kroz cijelo krilo 
+                                           thickness - (10%)
+                                           camber (%)
+                                           aspect ratio
