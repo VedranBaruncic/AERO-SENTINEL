@@ -14,17 +14,21 @@ zaklučivanje kakve specifikacije trebaju našoj misiji.
 -Misija naše bespilotne letjelice je izbacivati modula u šumska područja pri naletima vjetra od 10 m/s, mora imati visok loitering radi preciznog izbacivanja modula te visoki endurance od 3 sata leta (vidi podatci - 
 pravila). Ovu misiju možemo ostvariti pomnim biranjem specifikacija krila i aerodinamičnosti aviona. Započeti ćemo s krilima.
 
+CENTAR GRAVITACIJE
+Centar gravitacije smo dobili sa programom kojeg smo koristili: OpenVSP, gdje smo ubacili STL file naseg probnog 3D modela i dobili pocetni centar gravitacije(x - 890mm, y - 870mm, z - 132mm)
+
 KRILA
 Odabrane specifikacije krila su slijedeće: span - 4m
                                            chord - max 20cm, min 9cm, mijenja se kroz cijelo krilo 
                                            thickness - (10%)
                                            camber - 4%
                                            aspect ratio - na kraju krila 44, na početku (kod fuselaga) 20
+                                           sweep angle - 20°
 
 Započeli smo dizajn winga s ciljem da dobijemo visok aspec ratio, optimalno 25. 
 
 Zašto visok AR?
-Potreban nam je visok AR zato jer ona avionu daje stabilnost pri niskim brzinama, dobar glide, višlji L/D ratio 
+Potreban nam je visok AR zato jer ona avionu daje stabilnost pri niskim brzinama, dobar glide, veći L/D ratio 
 (lift to drag ratio). Na početku smo ciljali na 25 aspect ratio jer je srednje do visok što je za nas optimalno. 
 
 Zašto je 25 bilo optimalno, a zašto smo završili na 44/20 AR? 
