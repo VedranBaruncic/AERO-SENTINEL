@@ -48,4 +48,7 @@ POZICIJA PROPELERA
 jer še se tako stvarati više drag-a i upitna je strukturalna snaga. Najbolja opcija je jedan propeler ispred aviona jer je strukturalno i aerodinamično najbolje pozicioniran.
 
 REP AVIONA
--Rep je važan jer drži ključne kontrolne površine za stabilizaciju i okretnost aviona. Vrste repova su: Conventional,  T-Tail, H-Tail, Twin-Tail, V-Tail. Odabrali smo konvencionalni rep aviona jer 
+-Rep je važan jer drži ključne kontrolne površine za stabilizaciju i okretnost aviona. Vrste repova su: Conventional,  T-Tail, H-Tail, Twin-Tail, V-Tail. Odabrali smo konvencionalni rep aviona jer je stabilan zbog odvojenosti
+ruddera i elevatora, stabilan je pri malim brzinama. Točne dimenzije repa možemo izračunati preko podataka o krilima i fuselage-u. (video koji objašnjava repove i njihove prednosti mane https://www.youtube.com/watch?v=cU1I7qbWosg)
+
+POZICIONIRANJE I CENTAR GRAVITACIJE
