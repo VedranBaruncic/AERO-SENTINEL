@@ -52,7 +52,7 @@ ruddera i elevatora, stabilan je pri malim brzinama. Točne dimenzije repa može
 
 POZICIONIRANJE I CENTAR GRAVITACIJE
 -Centar gravitacije smo dobili sa programom kojeg smo koristili: OpenVSP, gdje smo ubacili STL file naseg probnog 3D modela i dobili pocetni centar gravitacije(x - 890mm, y - 870mm, z - 132mm)
-On je ključan za poziciju komponenti, pogledaj pozicije komponenti u "slike"
+On je ključan za poziciju komponenti, pogledaj pozicije komponenti u slike.
 
 KONTROLNE POVRŠINE
 Ailerons - pomažu avionu da se rolla, tj. nagne ulijevo ili udesno
@@ -60,5 +60,6 @@ Elevators - pomaže avionu da se uzdigne ili spušta
 Rudder - pomaže avionu da skreće nos ulijevo i udesno
 
 LANDING GEAR
--Jedan servo za zadnje kotaće i jedan za prednje će izbacivati i uvući landing gear. Landin gear će imati jeda kotač napred i dva iza. Skicu načina rada vidi u slike. Na slici se da primjetiti da kada je landing gear zatvoren
+-Jedan servo za zadnje kotaće i jedan za prednje će izbacivati i uvući landing gear. Landin gear će imati jeda kotač napred i dva iza. Ovakav raspored smo odabrali zbog učinkovitije raspodijele prostora i jednostavnosti.
+Skicu načina rada vidi u slike. Na slici se da primjetiti da kada je landing gear zatvoren
 ostaje mala rupa kod kotača, to ćemo riješiti tako što ćemo imati vratašca na oprugu koja su lako pomična na pokret gume ali se ne miću sama. Vidi skicu prednjeg kotača i skicu vrata s oprugom.
