@@ -59,4 +59,5 @@ Elevators - pomaže avionu da se uzdigne ili spušta
 Rudder - pomaže avionu da skreće nos ulijevo i udesno
 
 LANDING GEAR
--Jedan servo za zadnje kotaće i jedan za prednje će izbacivati i uvući landing gear. Landin gear će imati jeda kotač napred i dva iza. Skicu načina rada vidi u slike.
+-Jedan servo za zadnje kotaće i jedan za prednje će izbacivati i uvući landing gear. Landin gear će imati jeda kotač napred i dva iza. Skicu načina rada vidi u slike. Na slici se da primjetiti da kada je landing gear zatvoren
+ostaje mala rupa kod kotača, to ćemo riješiti.
