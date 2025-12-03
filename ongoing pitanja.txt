@@ -1,13 +1,14 @@
-
-                                                              
-
-
-KOMPONENTE 
-baterija
-2 motora za pogon - oko 600-1000W svaki
-for control - rudder (1), ailerons [2] - different direction , elevators [2] (same direction) (3 manja motora=?)
-landing gear - in progress
-.....
+1 Kontrolne površine-  koje, veličina, kako s miču (skica sajli i serva), flaps, speedbreak
+2 motor- jačina kako bi mogao dignuti avion i teret
+3 Landin gear- skica, način rada
+4 krilo- zašto solidi materijal, druge opcije su?, istražiti npr termalno vlakno, može biti i solidno
+5 troškovi- veličina, komponente
+6 fuselage- oblik fuselaga bolje objasnit i istražit
+7 pozicicja stvari- u detalje gdje kako zašto, bolja skica
+8 vizualizacija- dokument, stavit u proposal i onda sliku objasniti
+9 raspisat zašto nećeg ima a nećeg nema
+10 veki, ako nije poslat Ronaldu reinold broj da provjeri
+11 payload sistem- kako zašto gdje... sve
 
 
 
