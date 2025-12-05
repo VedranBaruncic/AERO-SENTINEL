@@ -1,0 +1,10 @@
+ZAŠTO REMAKE
+Fazu - 0 započeti ćemo na drukčiji način zato što nemamo ključne podatke o avionu poput maksimalne nosivosti, sila lifta, maksimalni domet, dimenzije kontrolnih površina, površina i drag aviona...
+KAKO ĆEMO NASTAVITI?
+1. korak - izračunati maksimalnu nosivost fusealgea
+2. korak - izračunati makimalni domet aviona
+3. korak - autonomija leta
+4. korak - dizajn aerodinamike za odabrane parametre (koraci 1. do 3.)
+5. korak - izračun površina i draga
+6. korak - motori i kontrole
+PRVI KORAK
