@@ -1,10 +1,18 @@
 ZAŠTO REMAKE
 Fazu - 0 započeti ćemo na drukčiji način zato što nemamo ključne podatke o avionu poput maksimalne nosivosti, sila lifta, maksimalni domet, dimenzije kontrolnih površina, površina i drag aviona...
 KAKO ĆEMO NASTAVITI?
-1. korak - izračunati maksimalnu nosivost fusealgea
+1. korak - izračunati maksimalnu nosivost fuselagea
 2. korak - izračunati makimalni domet aviona
 3. korak - autonomija leta
 4. korak - dizajn aerodinamike za odabrane parametre (koraci 1. do 3.)
 5. korak - izračun površina i draga
 6. korak - motori i kontrole
 PRVI KORAK
+
+Trebali smo dobiti maksimalnu nosivost fuselagea
+podijelili smo fuselage u dio sa komponentama i dio sa senzorima i težinom.
+Dobili smo od klijenta masu i veličinu senzora(90g, 65 length, 36 width) i morali smo onda izračunati koliko takvih kockica bi moglo stat u dio sa težinom
+Za početak smo fuselage napravili samo kocku sa istim dimenzijama kao trenutni fuselage(length 1870mm, widest 300mm)
+Volumen smo onda izračunali i dobili 61583cm³, a volumen senzora je 84.24cm³, ako podijelimo to dobijemo 731 senzor
+Naravno 731 je absurdan broj zbog puno stvari: Fuselage je bio kocka, senzori nikad nece doci u isti polozaj OSIM AKO budu doslovno stopljeni jedan za drugi i uvijek će biti razmak izmedu njih.
+Ako ne uračunamo nikakav razmak, hipotetski najveći broj senzora je 731, a ako pomnožimo to sa masom(90g) dobijemo 65790g odnosno 65kg u idealnim uvjetima, kada prijeđemo u realne uvjete ta vrijednost se znatno smanjuje i silazi ispod 20kg.
